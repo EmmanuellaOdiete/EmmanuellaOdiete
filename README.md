@@ -1,3 +1,5 @@
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/22299878-93fe-4c95-8e96-0bf8ee5e0e30)
+
 ## 👋🏽 Hey there, my name is Emmanuella Odiete
 
 Welcome to my GitHub space — where data meets story and insights come alive.
