@@ -10,18 +10,18 @@ I believe that every dataset has a heartbeat — a trail of decisions, behaviors
 
 Whether I’m helping a business understand its customers or visualizing performance trends, I bring curiosity, a design eye, and a love for structure into every project.
 
-### 📊 What I Do
+📊 What I Do
 - Transform messy data into clean, analysis-ready datasets  
-- Build dynamic and interactive dashboards in Power BI  
+- Build dynamic and interactive dashboards  
 - Analyze trends to support smarter business decisions  
 - Communicate insights in clear, visual, and compelling ways
 
-### 🧠 My Core Strengths
+🧠 My Core Strengths
 - Data Cleaning & Transformation  
 - Data Storytelling & Visualization  
 - Business-Oriented Analysis  
 
-### 📫 Let’s Connect!
+## 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/emmanuella-odiete-3638671a5/)
 
 Thanks for stopping by — I’m always open to collaboration, growth, and exciting data opportunities 🚀
